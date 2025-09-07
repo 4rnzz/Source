@@ -1,10 +1,6 @@
-[
-  {
-    "username": "admin",
-    "password": "4rnzz"
-  },
-  {
-    "username": "1",
-    "password": "1"
-  }
-]
+{
+  "username": "xlanzz",
+  "password": "xlanzz",
+  "maxdevice": 1,
+  "devices": []
+}
