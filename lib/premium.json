@@ -3,7 +3,9 @@
     "username": "xlanzz",
     "password": "xlanzz",
     "maxdevice": 1,
-    "devices": []
+    "devices": [
+      "424dd23f67c12bd3"
+    ]
   },
   {
     "username": "tes",
