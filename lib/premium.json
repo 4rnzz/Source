@@ -4,5 +4,11 @@
     "password": "xlanzz",
     "maxdevice": 1,
     "devices": []
+  },
+  {
+    "username": "tes",
+    "password": "tes",
+    "maxdevice": 1,
+    "devices": []
   }
 ]
