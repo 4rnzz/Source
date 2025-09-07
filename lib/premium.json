@@ -1,6 +1,8 @@
-{
-  "username": "xlanzz",
-  "password": "xlanzz",
-  "maxdevice": 2,
-  "devices": []
-}
+[
+  {
+    "username": "xlanzz",
+    "password": "xlanzz",
+    "maxdevice": 1,
+    "devices": []
+  }
+]
