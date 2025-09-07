@@ -2,7 +2,7 @@
   {
     "username": "xlanzz",
     "password": "xlanzz",
-    "maxdevice": 2,
+    "maxdevice": 1,
     "devices": [
       "424dd23f67c12bd5",
       "424dd23f67c12bd3"
